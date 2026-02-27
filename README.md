@@ -34,7 +34,7 @@ To write a program to find the 1-norm, 2-norm and infinity norm of the matrix an
 	print("{:.2f}".format(two_matrix))
 ```
 
-# Infinity Norm of a Matrix
+# 3 - Infinity Norm of a Matrix
 ```
 	Program to find 2-norm of a matrix.
 	Developed by: Amal Tony Charles
