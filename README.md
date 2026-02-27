@@ -50,11 +50,11 @@ To write a program to find the 1-norm, 2-norm and infinity norm of the matrix an
 ## Output:
 ### 1-Norm of a Matrix
 
-![alt text](image-1.png)
+![alt text](image-4.png)
 
 ### 2-Norm of a Matrix
 
-![alt text](image-2.png)
+![alt text](image-5.png)
 
 ### Infinity Norm of a Matrix
 ![alt text](image-3.png)
